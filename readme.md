@@ -1,0 +1,1 @@
+This branch contains updated version of calculator with static methords on calculator class and instance methods in calculation class to perform operations.
