@@ -1,0 +1,1 @@
+In this version of calculator we added a feature that can store history of calculations.
